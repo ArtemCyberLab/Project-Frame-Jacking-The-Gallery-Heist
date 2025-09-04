@@ -99,9 +99,9 @@ Commands Executed:
 
 bash
 su mike
-# Password: b3stpassw0rdbr0xx
+ Password: b3stpassw0rdbr0xx
 cat /home/mike/user.txt
-User Flag: THM{af05cd30bfed67849befd546ef}
+User Flag: THM{af05cd30bfed67849efd546ef}
 
 6. Privilege Escalation to Root
 The sudo permissions for user mike were checked, revealing a critical misconfiguration.
